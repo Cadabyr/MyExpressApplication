@@ -1,6 +1,4 @@
-const e = require('express')
 const express = require('express')
-const { restart } = require('nodemon')
 const router = express.Router()
 const Author = require('../models/author')
 
